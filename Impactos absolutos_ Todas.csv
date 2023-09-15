@@ -1,0 +1,772 @@
+UTP,Cidade Sede,UF,Impacto direto,Impacto direto e indireto,"Impacto direto, indireto e induzido"
+316,São Paulo,SP,693.127,1095.478,1305.063
+284,Rio de Janeiro,RJ,153.739,243.439,285.939
+267,Porto Alegre,RS,115.584,184.4,219.138
+42,Belo Horizonte,MG,90.721,143.691,169.948
+278,Recife,PE,76.291,104.517,118.671
+291,Salvador,BA,63.146,98.815,114.925
+206,Manaus,AM,77.915,97.261,107.114
+53,Brasília,DF,59.004,85.863,99.666
+100,Curitiba,PR,42.348,65.023,77.128
+110,Florianópolis,SC,34.207,53.119,62.86
+203,Maceió,AL,29.444,41.522,47.226
+111,Fortaleza,CE,30.079,39.57,44.404
+237,Parauapebas,PA,37.844,39.095,40.289
+117,Goiânia,GO,25.598,33.925,38.625
+222,Natal,RN,20.108,26.042,29.122
+41,Belém,PA,18.531,24.783,27.865
+363,Vitória,ES,15.739,24.062,28.126
+185,João Pessoa,PB,13.662,19.273,22.044
+88,Chapecó,SC,12.837,18.004,20.548
+336,Teresina,PI,10.873,16.296,18.849
+19,Aracaju,SE,13.564,16.153,17.604
+208,Marabá,PA,14.156,15.929,16.925
+202,Macapá,AP,11.204,14.924,16.652
+362,Vitória da Conquista,BA,9.47,13.361,15.029
+311,São José do Rio Preto,SP,9.361,13.039,14.961
+98,Cuiabá,MT,9.773,12.846,14.525
+67,Campo Grande,MS,8.684,12.755,14.854
+314,São Luís,MA,8.908,12.052,13.552
+187,Juazeiro do Norte,CE,10.916,11.13,11.457
+352,Uberlândia,MG,8.485,11.115,12.51
+282,Rio Branco,AC,7.379,11.007,12.721
+269,Porto Velho,RO,9.63,10.66,11.318
+47,Boa Vista,RR,7.048,9.928,11.252
+281,Ribeirão Preto,SP,7.501,9.902,11.137
+186,Joinville,SC,5.952,9.007,10.451
+126,Ilhéus,BA,6.293,8.746,9.855
+140,Foz do Iguaçu,PR,7.535,8.719,9.412
+199,Londrina,PR,5.492,8.362,9.831
+253,Petrolina,PE,7.854,8.261,8.583
+65,Campina Grande,PB,5.43,8.055,9.197
+324,Sinop,MT,4.912,7.404,8.641
+375,Altamira,PA,5.67,7.391,8.183
+298,Santarém,PA,5.391,7.154,7.96
+128,Imperatriz,MA,6.057,6.703,7.099
+160,Navegantes,SC,4.632,6.314,7.181
+268,Porto Seguro,BA,4.327,6.13,6.929
+211,Maringá,PR,5.255,5.67,5.984
+240,Passo Fundo,RS,3.704,5.586,6.498
+274,Presidente Prudente,SP,3.64,4.793,5.414
+301,Araçatuba,SP,3.456,4.546,5.127
+231,Palmas,TO,3.942,4.416,4.699
+62,Caldas Novas,GO,2.615,3.953,4.573
+470,Coari,AM,3.625,3.738,3.846
+218,Montes Claros,MG,3.214,3.68,3.927
+38,Barreiras,BA,2.954,3.64,3.952
+84,Caxias do Sul,RS,2.534,3.446,3.928
+157,Santana do Paraíso,MG,2.487,3.062,3.341
+103,Dourados,MS,2.108,3.057,3.505
+445,Canaã dos Carajás,PA,2.824,2.882,2.956
+374,Alta Floresta,MT,1.877,2.816,3.273
+79,Cascavel,PR,2.363,2.661,2.853
+551,Jaguaruna,SC,1.866,2.575,2.935
+289,Rondonópolis,MT,1.676,2.539,2.956
+238,Parintins,AM,2.265,2.454,2.569
+155,Tabatinga,AM,1.667,2.372,2.663
+618,Oriximiná,PA,1.897,2.219,2.38
+56,Cabo Frio,RJ,1.467,1.991,2.233
+189,Juiz de Fora,MG,1.22,1.838,2.128
+492,Cruzeiro do Sul,AC,1.145,1.667,1.889
+118,Governador Valadares,MG,1.131,1.663,1.909
+500,Eirunepé,AM,1.108,1.572,1.764
+344,Três Lagoas,MS,1.269,1.446,1.548
+561,Juína,MT,0.828,1.237,1.437
+182,Ji-Paraná,RO,1.045,1.225,1.321
+209,Maragogi,AL,0.983,1.06,1.108
+210,Marília,SP,0.85,1.05,1.158
+557,Cruz,CE,0.899,1.024,1.089
+201,Macaé,RJ,0.932,1.016,1.066
+297,Santa Maria,RS,0.608,0.924,1.081
+20,Araguaína,TO,0.685,0.922,1.029
+734,Tefé,AM,0.655,0.921,1.033
+40,Bauru,SP,0.719,0.918,1.024
+287,Rio Verde,GO,0.604,0.907,1.05
+430,Cacoal,RO,0.824,0.89,0.936
+334,Teixeira de Freitas,BA,0.635,0.888,1.003
+310,São José de Mipibu,RN,0.585,0.855,0.975
+194,Almeirim,PA,0.637,0.801,0.873
+650,Porto de Moz,PA,0.603,0.8,0.888
+700,São Gabriel da Cachoeira,AM,0.526,0.75,0.842
+414,Bonito,MS,0.684,0.74,0.778
+452,Carauari,AM,0.492,0.698,0.784
+567,Lábrea,AM,0.634,0.675,0.701
+770,Paraty,RJ,0.442,0.658,0.753
+299,Santo Ângelo,RS,0.438,0.653,0.758
+242,Pato Branco,PR,0.444,0.603,0.681
+191,Lages,SC,0.43,0.586,0.663
+388,Aracati,CE,0.376,0.553,0.628
+246,Paulo Afonso,BA,0.495,0.541,0.569
+351,Uberaba,MG,0.408,0.511,0.567
+420,Breves,PA,0.375,0.487,0.536
+340,Toledo,PR,0.377,0.409,0.431
+220,Mossoró,RN,0.345,0.389,0.413
+759,Vilhena,RO,0.324,0.35,0.368
+416,Borba,AM,0.32,0.347,0.363
+78,Caruaru,PE,0.313,0.337,0.353
+621,Pacaraima,RR,0.31,0.337,0.354
+93,Santo Antônio de Jesus,BA,0.237,0.334,0.378
+394,Aripuanã,MT,0.205,0.307,0.353
+725,Sorriso,MT,0.214,0.304,0.348
+586,Maués,AM,0.279,0.302,0.316
+68,Campos dos Goytacazes,RJ,0.199,0.299,0.345
+612,Água Boa,MT,0.196,0.292,0.336
+264,Ponta Grossa,PR,0.262,0.277,0.289
+312,São José dos Campos,SP,0.227,0.273,0.299
+541,Itaituba,PA,0.209,0.268,0.295
+25,Araraquara,SP,0.222,0.257,0.277
+729,Tangará da Serra,MT,0.223,0.254,0.272
+69,Canela,RS,0.157,0.241,0.286
+107,Feira de Santana,BA,0.185,0.221,0.239
+37,Barra do Garças,MT,0.147,0.22,0.254
+61,Caiçara do Norte,RN,0.137,0.205,0.232
+767,Angra dos Reis,RJ,0.137,0.204,0.232
+251,Pelotas,RS,0.146,0.202,0.23
+166,Itapipoca,CE,0.173,0.195,0.207
+34,Guarujá,SP,0.117,0.179,0.207
+693,São Benedito,CE,0.157,0.178,0.189
+508,Fernando de Noronha,PE,0.169,0.176,0.182
+569,Lençóis,BA,0.115,0.165,0.185
+7,Esplanada,BA,0.126,0.155,0.168
+239,Parnaíba,PI,0.138,0.151,0.159
+138,Corumbá,MS,0.137,0.143,0.149
+325,Sobral,CE,0.126,0.142,0.15
+99,Cuité,PB,0.082,0.122,0.139
+407,Barreirinhas,MA,0.1,0.108,0.113
+350,Ituberá,BA,0.074,0.108,0.122
+302,Santo Antônio,RN,0.071,0.106,0.12
+39,Barretos,SP,0.083,0.105,0.116
+162,Itambé,PE,0.095,0.103,0.108
+228,Novo Hamburgo,RS,0.066,0.101,0.119
+360,Vera Cruz,BA,0.067,0.098,0.112
+29,Araxá,MG,0.091,0.097,0.102
+364,Volta Redonda,RJ,0.064,0.096,0.11
+22,Arapiraca,AL,0.082,0.096,0.103
+435,Camocim,CE,0.082,0.093,0.099
+687,Santa Rosa,RS,0.061,0.092,0.107
+279,Quixadá,CE,0.069,0.09,0.099
+616,Óbidos,PA,0.067,0.088,0.097
+13,Americana,SP,0.055,0.08,0.093
+328,Sorocaba,SP,0.052,0.079,0.092
+592,Monte Alegre,PA,0.06,0.079,0.088
+121,Guarapuava,PR,0.056,0.078,0.089
+96,Forquilhinha,SC,0.058,0.076,0.086
+358,Varginha,MG,0.049,0.075,0.087
+321,Serra Talhada,PE,0.067,0.073,0.076
+695,São Félix do Araguaia,MT,0.048,0.072,0.081
+766,Ilhabela,SP,0.053,0.071,0.08
+254,Petrópolis,RJ,0.045,0.067,0.077
+419,Brejo,MA,0.051,0.066,0.073
+615,Novo Progresso,PA,0.051,0.065,0.072
+159,Itabuna,BA,0.044,0.065,0.074
+659,Presidente Figueiredo,AM,0.062,0.063,0.064
+91,Codó,MA,0.049,0.062,0.067
+597,Limoeiro do Norte,CE,0.04,0.058,0.066
+2,Dom Eliseu,PA,0.053,0.058,0.062
+273,Presidente Juscelino,MA,0.053,0.057,0.059
+205,Mamanguape,PB,0.048,0.057,0.061
+647,Pontes e Lacerda,MT,0.049,0.056,0.06
+52,Bragança,PA,0.044,0.056,0.062
+440,Campo Mourão,PR,0.05,0.054,0.057
+674,Russas,CE,0.037,0.054,0.061
+112,Franca,SP,0.037,0.054,0.063
+94,Conselheiro Lafaiete,MG,0.05,0.054,0.057
+248,Pedreiras,MA,0.04,0.053,0.058
+156,Uruguaiana,RS,0.037,0.053,0.061
+333,Pindamonhangaba,SP,0.045,0.053,0.058
+46,Blumenau,SC,0.04,0.052,0.058
+468,Cianorte,PR,0.048,0.051,0.053
+43,Garibaldi,RS,0.038,0.049,0.055
+188,Iguatu,CE,0.047,0.049,0.05
+354,União da Vitória,PR,0.039,0.049,0.054
+395,Ariquemes,RO,0.041,0.049,0.053
+295,Pinheiro,MA,0.041,0.048,0.051
+735,Telêmaco Borba,PR,0.044,0.046,0.048
+641,Pirenópolis,GO,0.033,0.046,0.053
+57,Cachoeira,BA,0.034,0.046,0.051
+337,Teresópolis,RJ,0.031,0.046,0.052
+367,Adustina,BA,0.044,0.045,0.046
+317,São Pedro,SP,0.038,0.045,0.049
+252,Penedo,AL,0.041,0.044,0.046
+33,Bagé,RS,0.033,0.044,0.05
+686,Santa Rita de Cássia,BA,0.033,0.044,0.049
+1,Abaetetuba,PA,0.035,0.043,0.047
+595,Monteiro,PB,0.029,0.043,0.048
+32,Bacabal,MA,0.033,0.043,0.047
+487,Crateús,CE,0.038,0.042,0.043
+410,Boa Viagem,CE,0.039,0.042,0.044
+120,Guarapari,ES,0.029,0.042,0.049
+681,Santa Inês,MA,0.033,0.041,0.045
+330,Taquara,RS,0.027,0.041,0.048
+31,Artur Nogueira,SP,0.028,0.041,0.047
+27,Araripina,PE,0.036,0.04,0.042
+781,Tucuruí,PA,0.032,0.039,0.042
+212,Matinhos,PR,0.026,0.039,0.044
+565,Juruti,PA,0.032,0.039,0.043
+263,Caicó,RN,0.035,0.039,0.042
+85,Caxias,MA,0.029,0.037,0.04
+782,Confresa,MT,0.025,0.037,0.043
+178,Jaraguá do Sul,SC,0.024,0.036,0.042
+627,Paramirim,BA,0.025,0.036,0.04
+80,Castanhal,PA,0.029,0.036,0.04
+462,Centenário do Sul,PR,0.031,0.034,0.037
+60,Caiçara,PB,0.023,0.034,0.038
+256,Piracicaba,SP,0.028,0.033,0.035
+197,Limeira,SP,0.029,0.033,0.035
+50,Botucatu,SP,0.021,0.032,0.038
+428,Cáceres,MT,0.027,0.032,0.035
+113,Garanhuns,PE,0.029,0.032,0.033
+106,Eunápolis,BA,0.023,0.032,0.035
+626,Paragominas,PA,0.026,0.03,0.032
+728,Tamboril,CE,0.027,0.029,0.03
+81,Catalão,GO,0.02,0.029,0.033
+582,Marechal Cândido Rondon,PR,0.026,0.028,0.03
+550,Jaguaribe,CE,0.022,0.028,0.031
+719,Senador Pompeu,CE,0.026,0.027,0.028
+491,Cruz Alta,RS,0.018,0.027,0.031
+737,Tomé-Açu,PA,0.022,0.027,0.03
+572,Lucas do Rio Verde,MT,0.019,0.026,0.029
+549,Jaguarari,BA,0.025,0.025,0.026
+762,Xanxerê,SC,0.016,0.024,0.028
+720,Sento Sé,BA,0.024,0.024,0.025
+174,Jaciara,MT,0.016,0.024,0.028
+219,Morros,MA,0.023,0.024,0.026
+707,São Joaquim da Barra,SP,0.02,0.023,0.025
+660,Primavera do Leste,MT,0.015,0.023,0.026
+181,Jequié,BA,0.017,0.023,0.026
+457,Casa Nova,BA,0.023,0.023,0.024
+318,São Roque,SP,0.015,0.023,0.027
+64,Cametá,PA,0.017,0.022,0.024
+371,Alcântara,MA,0.022,0.022,0.023
+594,Monte Santo,BA,0.022,0.022,0.023
+345,Três Rios,RJ,0.014,0.022,0.025
+469,Cipó,BA,0.021,0.022,0.023
+467,Chaves,PA,0.017,0.022,0.025
+635,Pesqueira,PE,0.019,0.021,0.022
+58,Cachoeiro de Itapemirim,ES,0.018,0.021,0.022
+244,Patos,PB,0.018,0.021,0.022
+708,São José do Jacuípe,BA,0.017,0.021,0.022
+235,Paranavaí,PR,0.02,0.021,0.022
+63,Cambuí,MG,0.014,0.021,0.024
+165,Itapetininga,SP,0.013,0.021,0.024
+308,São João da Boa Vista,SP,0.017,0.02,0.022
+14,Amparo,SP,0.017,0.02,0.023
+158,Itabira,MG,0.018,0.02,0.021
+119,Guarabira,PB,0.018,0.02,0.021
+326,Solânea,PB,0.014,0.02,0.023
+479,Conceição do Mato Dentro,MG,0.019,0.02,0.021
+661,Realeza,PR,0.014,0.019,0.021
+535,Ijuí,RS,0.012,0.019,0.022
+72,Capão da Canoa,RS,0.012,0.019,0.022
+196,Leme,SP,0.016,0.019,0.021
+657,Presidente Dutra,MA,0.015,0.019,0.02
+503,Erechim,RS,0.013,0.019,0.022
+425,Buritis,RO,0.015,0.019,0.02
+293,Santa Cruz do Sul,RS,0.013,0.019,0.022
+170,Itu,SP,0.012,0.018,0.02
+276,Propriá,SE,0.017,0.018,0.019
+198,Linhares,ES,0.013,0.018,0.02
+315,São Mateus,ES,0.012,0.018,0.021
+704,São João do Rio do Peixe,PB,0.017,0.018,0.018
+143,Guajará-Mirim,RO,0.014,0.017,0.018
+685,Santa Quitéria,CE,0.015,0.017,0.018
+171,Itumbiara,GO,0.012,0.017,0.019
+173,Jacaraú,PB,0.015,0.017,0.018
+105,Estreito,MA,0.013,0.016,0.018
+513,Frederico Westphalen,RS,0.011,0.016,0.019
+596,Montenegro,RS,0.011,0.016,0.018
+23,Arapongas,PR,0.012,0.016,0.018
+227,Nova Serrana,MG,0.012,0.016,0.018
+346,Laguna,SC,0.011,0.016,0.018
+587,Medianeira,PR,0.015,0.016,0.017
+323,Sete Lagoas,MG,0.014,0.015,0.016
+733,Tauá,CE,0.014,0.015,0.015
+739,Tucano,BA,0.014,0.015,0.016
+342,Torres,RS,0.01,0.015,0.018
+356,Valença,RJ,0.01,0.015,0.017
+320,Sapiranga,RS,0.01,0.015,0.017
+752,Valente,BA,0.013,0.015,0.015
+710,São Luís de Montes Belos,GO,0.01,0.014,0.016
+400,Balsas,MA,0.013,0.014,0.014
+666,Rio Brilhante,MS,0.011,0.014,0.015
+51,Bragança Paulista,SP,0.011,0.014,0.015
+504,Esperantina,PI,0.013,0.014,0.015
+747,Uruará,PA,0.011,0.014,0.015
+670,Rolim de Moura,RO,0.013,0.014,0.015
+125,Iguape,SP,0.009,0.014,0.016
+429,Cachoeira do Sul,RS,0.009,0.014,0.016
+55,Brusque,SC,0.011,0.014,0.015
+122,Guaratinguetá,SP,0.011,0.014,0.015
+560,Juazeirinho,PB,0.009,0.013,0.015
+683,Santa Maria da Boa Vista,PE,0.012,0.013,0.013
+431,Caculé,BA,0.009,0.013,0.014
+765,Zé Doca,MA,0.011,0.013,0.015
+59,Arcoverde,PE,0.012,0.013,0.014
+217,Mogi Mirim,SP,0.011,0.013,0.015
+48,Boituva,SP,0.01,0.013,0.015
+524,Guaxupé,MG,0.009,0.013,0.015
+124,Ituverava,SP,0.01,0.013,0.015
+422,Morrinhos,GO,0.008,0.012,0.013
+193,Estrela,RS,0.008,0.012,0.014
+339,Tocantinópolis,TO,0.01,0.012,0.013
+532,Ibirubá,RS,0.008,0.012,0.013
+526,Gurupi,TO,0.01,0.012,0.014
+216,Miracema do Tocantins,TO,0.009,0.012,0.013
+522,Guaporé,RS,0.008,0.012,0.014
+74,Capivari,SP,0.011,0.012,0.013
+678,Salto do Jacuí,RS,0.008,0.012,0.013
+292,Santa Adélia,SP,0.01,0.012,0.014
+643,Piripiri,PI,0.011,0.012,0.012
+690,Santana do Ipanema,AL,0.01,0.012,0.013
+784,Canarana,MT,0.008,0.011,0.013
+164,Itapema,SC,0.009,0.011,0.013
+224,Nova Friburgo,RJ,0.007,0.011,0.012
+343,Osório,RS,0.007,0.011,0.013
+673,Rurópolis,PA,0.008,0.011,0.012
+283,Rio Claro,SP,0.01,0.011,0.012
+559,Juara,MT,0.007,0.011,0.012
+280,Resende,RJ,0.008,0.011,0.013
+102,Divinópolis,MG,0.008,0.011,0.012
+546,Ituiutaba,MG,0.009,0.011,0.013
+24,Araranguá,SC,0.007,0.011,0.013
+714,São Miguel do Oeste,SC,0.007,0.011,0.013
+580,Maracaju,MS,0.009,0.011,0.012
+15,Angical do Piauí,PI,0.009,0.011,0.011
+537,Iporá,GO,0.008,0.011,0.013
+474,Colíder,MT,0.007,0.011,0.012
+243,Patos de Minas,MG,0.008,0.011,0.012
+180,Jaú,SP,0.008,0.011,0.012
+574,Luís Eduardo Magalhães,BA,0.009,0.011,0.012
+255,Picos,PI,0.009,0.011,0.011
+392,Araguatins,TO,0.007,0.01,0.011
+539,Itaberaba,BA,0.008,0.01,0.011
+379,São Miguel do Guaporé,RO,0.009,0.01,0.011
+548,Jacobina,BA,0.009,0.01,0.011
+221,Muriaé,MG,0.007,0.01,0.012
+28,Araruama,RJ,0.007,0.01,0.011
+5,Águas de Lindóia,SP,0.008,0.01,0.012
+230,Ourinhos,SP,0.008,0.01,0.011
+517,Goioerê,PR,0.01,0.01,0.011
+505,Soledade,RS,0.007,0.01,0.012
+512,Francisco Beltrão,PR,0.008,0.01,0.012
+454,Carazinho,RS,0.007,0.01,0.011
+285,Lontras,SC,0.008,0.01,0.012
+464,Chapada dos Guimarães,MT,0.01,0.01,0.01
+489,Crixás,GO,0.01,0.01,0.01
+8,Leopoldina,MG,0.007,0.01,0.012
+305,São Carlos,SP,0.009,0.01,0.011
+92,Colatina,ES,0.006,0.009,0.01
+6,Alagoa Nova,PB,0.008,0.009,0.009
+649,Portel,PA,0.007,0.009,0.01
+506,Euclides da Cunha,BA,0.009,0.009,0.009
+715,São Paulo de Olivença,AM,0.006,0.009,0.01
+688,Santa Vitória,MG,0.006,0.009,0.011
+154,São Borja,RS,0.007,0.009,0.01
+622,Palmeira das Missões,RS,0.006,0.009,0.01
+542,Itapetinga,BA,0.006,0.009,0.01
+82,Novo Horizonte,SP,0.007,0.009,0.01
+475,Colinas,MA,0.007,0.009,0.01
+54,Brejões,BA,0.007,0.009,0.01
+161,Itajubá,MG,0.006,0.009,0.011
+359,Venâncio Aires,RS,0.006,0.009,0.011
+86,Ceres,GO,0.006,0.009,0.011
+353,Umuarama,PR,0.008,0.009,0.009
+642,Pires do Rio,GO,0.006,0.009,0.01
+619,Ourilândia do Norte,PA,0.008,0.009,0.009
+472,Codajás,AM,0.007,0.008,0.008
+304,São Carlos,SC,0.005,0.008,0.009
+638,Pimenta Bueno,RO,0.007,0.008,0.008
+49,Itaperuna,RJ,0.005,0.008,0.009
+349,Ubá,MG,0.005,0.008,0.009
+617,Oeiras,PI,0.007,0.008,0.008
+607,Nonoai,RS,0.005,0.008,0.009
+444,Campos Sales,CE,0.007,0.008,0.008
+442,Campo Novo do Parecis,MT,0.007,0.008,0.009
+207,Manhuaçu,MG,0.005,0.008,0.009
+200,Lorena,SP,0.006,0.008,0.009
+75,Ubatuba,SP,0.006,0.008,0.009
+87,Tietê,SP,0.006,0.008,0.009
+232,Paraguaçu Paulista,SP,0.007,0.008,0.009
+609,Nova Andradina,MS,0.006,0.008,0.008
+510,Formosa do Rio Preto,BA,0.007,0.008,0.008
+426,Caçador,SC,0.006,0.008,0.008
+664,Remanso,BA,0.007,0.008,0.008
+177,Jandaia do Sul,PR,0.006,0.008,0.008
+108,Fernandópolis,SP,0.006,0.008,0.008
+755,Viçosa,RN,0.006,0.007,0.008
+756,Videira,SC,0.005,0.007,0.007
+137,Brasiléia,AC,0.005,0.007,0.007
+95,Cordeiro,RJ,0.005,0.007,0.008
+478,Conceição do Araguaia,PA,0.006,0.007,0.008
+481,Cornélio Procópio,PR,0.005,0.007,0.009
+441,Campo Novo,RS,0.005,0.007,0.009
+453,Caravelas,BA,0.006,0.007,0.008
+172,Ivoti,RS,0.005,0.007,0.008
+746,Uruaçu,GO,0.006,0.007,0.008
+631,Pau dos Ferros,RN,0.006,0.007,0.008
+378,Alto Paraíso de Goiás,GO,0.007,0.007,0.007
+265,Ponte Nova,MG,0.005,0.007,0.008
+385,Anori,AM,0.007,0.007,0.007
+247,Paulo de Faria,SP,0.006,0.007,0.007
+192,Lagoa Vermelha,RS,0.004,0.007,0.008
+169,Pará de Minas,MG,0.007,0.007,0.008
+303,São Bento do Sul,SC,0.005,0.007,0.008
+646,Poconé,MT,0.007,0.007,0.007
+70,Três Barras,SC,0.005,0.007,0.008
+611,Nova Prata,RS,0.004,0.007,0.008
+296,Santa Maria da Vitória,BA,0.006,0.007,0.008
+262,Poços de Caldas,MG,0.005,0.007,0.009
+578,Manoel Ribas,PR,0.005,0.007,0.008
+361,Viçosa,MG,0.004,0.006,0.007
+439,Campo Maior,PI,0.005,0.006,0.006
+748,Urucará,AM,0.005,0.006,0.006
+123,Jaboticabal,SP,0.005,0.006,0.007
+585,Matupá,MT,0.004,0.006,0.006
+245,Paty do Alferes,RJ,0.004,0.006,0.007
+675,Salgueiro,PE,0.005,0.006,0.006
+12,Amarante,PI,0.005,0.006,0.006
+451,Caracaraí,RR,0.005,0.006,0.006
+604,Naviraí,MS,0.004,0.006,0.006
+709,São Lourenço do Sul,RS,0.005,0.006,0.007
+89,Charqueadas,RS,0.004,0.006,0.006
+195,Lavras,MG,0.004,0.006,0.006
+109,Floriano,PI,0.006,0.006,0.007
+603,Mundo Novo,BA,0.005,0.006,0.007
+71,Capão Bonito,SP,0.004,0.006,0.007
+184,João Monlevade,MG,0.005,0.006,0.006
+499,Dianópolis,TO,0.004,0.006,0.006
+480,Concórdia,SC,0.004,0.006,0.006
+562,Tupanciretã,RS,0.004,0.006,0.007
+365,Votuporanga,SP,0.005,0.006,0.007
+148,Ponta Porã,MS,0.004,0.006,0.007
+97,Cruzeiro,SP,0.005,0.006,0.007
+277,Quirinópolis,GO,0.004,0.005,0.006
+241,Passos,MG,0.003,0.005,0.006
+689,Santana do Araguaia,PA,0.005,0.005,0.006
+750,Vacaria,RS,0.003,0.005,0.006
+498,Diamantino,MT,0.004,0.005,0.005
+3,Adamantina,SP,0.004,0.005,0.006
+9,Santa Rita do Araguaia,GO,0.003,0.005,0.006
+272,Praia Grande,SC,0.003,0.005,0.006
+259,Ipira,SC,0.003,0.005,0.006
+624,Palotina,PR,0.004,0.005,0.005
+406,Barreirinha,AM,0.005,0.005,0.006
+338,Teutônia,RS,0.003,0.005,0.005
+204,Mafra,SC,0.003,0.005,0.006
+73,Capinzal,SC,0.004,0.005,0.005
+405,Barra do Corda,MA,0.005,0.005,0.006
+168,Itatiba,SP,0.004,0.005,0.006
+386,Aparecida do Taboado,MS,0.005,0.005,0.005
+175,Jales,SP,0.003,0.005,0.005
+381,Amapá,AP,0.003,0.005,0.005
+176,Janaúba,MG,0.004,0.005,0.005
+763,Xinguara,PA,0.004,0.005,0.005
+45,Penápolis,SP,0.004,0.005,0.006
+655,Prainha,PA,0.004,0.005,0.005
+520,Guanambi,BA,0.004,0.005,0.006
+18,Aquidauana,MS,0.004,0.005,0.005
+601,Mozarlândia,GO,0.004,0.005,0.006
+17,Apucarana,PR,0.003,0.005,0.006
+518,Grajaú,MA,0.005,0.005,0.006
+357,Valparaíso,SP,0.004,0.005,0.006
+705,São João dos Patos,MA,0.004,0.005,0.005
+35,Barbacena,MG,0.004,0.005,0.006
+527,Horizontina,RS,0.003,0.005,0.006
+21,Araguari,MG,0.004,0.005,0.006
+528,Humaitá,AM,0.004,0.004,0.004
+488,Cristalina,GO,0.003,0.004,0.004
+540,Itacoatiara,AM,0.004,0.004,0.004
+581,Maracás,BA,0.003,0.004,0.004
+36,Barra Bonita,SP,0.003,0.004,0.004
+625,Paracatu,MG,0.004,0.004,0.005
+502,Encruzilhada do Sul,RS,0.003,0.004,0.004
+662,Redenção,PA,0.003,0.004,0.004
+531,Ibimirim,PE,0.004,0.004,0.005
+640,Piracanjuba,GO,0.003,0.004,0.005
+486,Coxim,MS,0.004,0.004,0.005
+332,Tatuí,SP,0.002,0.004,0.004
+754,Veranópolis,RS,0.003,0.004,0.004
+226,Nova Londrina,PR,0.003,0.004,0.004
+225,Nova Granada,SP,0.003,0.004,0.005
+127,Imbituba,SC,0.003,0.004,0.004
+459,Castelo do Piauí,PI,0.004,0.004,0.004
+261,Frutal,MG,0.003,0.004,0.004
+423,Buriticupu,MA,0.003,0.004,0.004
+266,Ponto Belo,ES,0.002,0.004,0.004
+399,Autazes,AM,0.003,0.004,0.004
+398,Aruanã,GO,0.003,0.004,0.005
+270,Pouso Alegre,MG,0.003,0.004,0.005
+437,Campo Alegre de Lourdes,BA,0.004,0.004,0.004
+377,Alto Garças,MT,0.003,0.004,0.005
+286,Rio Grande,RS,0.003,0.004,0.005
+275,Presidente Venceslau,SP,0.003,0.004,0.004
+300,Santo Antônio de Pádua,RJ,0.003,0.004,0.005
+743,Uauá,BA,0.004,0.004,0.004
+742,Uarini,AM,0.003,0.004,0.005
+249,Guaraí,TO,0.003,0.004,0.004
+335,Teófilo Otoni,MG,0.003,0.003,0.003
+538,Irecê,BA,0.002,0.003,0.003
+751,Valença do Piauí,PI,0.002,0.003,0.003
+146,Oiapoque,AP,0.002,0.003,0.004
+744,Unaí,MG,0.003,0.003,0.003
+545,Ituaçu,BA,0.002,0.003,0.003
+712,São Manuel,SP,0.002,0.003,0.004
+427,Caçapava do Sul,RS,0.002,0.003,0.003
+717,São Sepé,RS,0.002,0.003,0.003
+26,Araras,SP,0.003,0.003,0.004
+676,Salinas,MG,0.002,0.003,0.003
+404,Barra,BA,0.003,0.003,0.003
+347,Tupã,SP,0.002,0.003,0.003
+183,Joaçaba,SC,0.002,0.003,0.003
+402,Bandeirantes,PR,0.002,0.003,0.004
+348,Tupi Paulista,SP,0.003,0.003,0.003
+726,Souto Soares,BA,0.002,0.003,0.003
+671,Rorainópolis,RR,0.002,0.003,0.003
+731,Tarauacá,AC,0.002,0.003,0.004
+384,Andirá,PR,0.002,0.003,0.003
+213,Matozinhos,MG,0.002,0.003,0.003
+738,Três Marias,MG,0.002,0.003,0.004
+77,Carolina,MA,0.003,0.003,0.003
+534,Iguatemi,MS,0.002,0.003,0.003
+605,Nioaque,MS,0.003,0.003,0.004
+706,São Joaquim,SC,0.002,0.003,0.004
+294,Santa Fé do Sul,SP,0.003,0.003,0.004
+691,Santiago,RS,0.002,0.003,0.003
+644,Piritiba,BA,0.003,0.003,0.004
+115,Getúlio Vargas,RS,0.002,0.003,0.004
+307,São Geraldo do Araguaia,PA,0.002,0.003,0.003
+309,São João Del Rei,MG,0.002,0.003,0.003
+313,São Lourenço,MG,0.002,0.003,0.003
+460,Castro,PR,0.003,0.003,0.004
+258,Pirapozinho,SP,0.003,0.003,0.003
+579,Maraã,AM,0.002,0.003,0.003
+447,Canavieiras,BA,0.002,0.003,0.003
+610,Nova Olinda do Norte,AM,0.003,0.003,0.003
+234,Paranaguá,PR,0.002,0.003,0.004
+654,Posse,GO,0.003,0.003,0.003
+132,Assis Brasil,AC,0.002,0.003,0.004
+711,São Luiz Gonzaga,RS,0.002,0.003,0.004
+214,Maurilândia,GO,0.001,0.002,0.002
+271,Pouso Alto,MG,0.002,0.002,0.003
+44,São João Nepomuceno,MG,0.001,0.002,0.003
+327,Sombrio,SC,0.002,0.002,0.003
+215,Mendes,RJ,0.001,0.002,0.002
+584,Mateiros,TO,0.002,0.002,0.002
+633,Paulistana,PI,0.001,0.002,0.002
+366,Abaré,BA,0.002,0.002,0.002
+634,Pedra Azul,MG,0.001,0.002,0.002
+606,Niquelândia,GO,0.002,0.002,0.002
+588,Minaçu,GO,0.002,0.002,0.003
+306,São Gabriel,RS,0.001,0.002,0.002
+630,Paranatinga,MT,0.002,0.002,0.003
+11,Alvorada do Norte,GO,0.002,0.002,0.002
+745,Urbano Santos,MA,0.002,0.002,0.002
+30,Nortelândia,MT,0.002,0.002,0.002
+236,Paraopeba,MG,0.002,0.002,0.003
+233,Paranacity,PR,0.002,0.002,0.002
+223,Nhamundá,AM,0.001,0.002,0.002
+257,Pirapora,MG,0.002,0.002,0.002
+322,Serranos,MG,0.001,0.002,0.003
+783,Buritis,MG,0.002,0.002,0.002
+16,Antônio Prado,RS,0.001,0.002,0.002
+599,Morro do Chapéu,BA,0.002,0.002,0.002
+260,Abaeté,MG,0.001,0.002,0.002
+163,Itaocara,RJ,0.001,0.002,0.002
+438,Campo do Meio,MG,0.001,0.002,0.002
+716,São Raimundo Nonato,PI,0.002,0.002,0.002
+536,Ipameri,GO,0.001,0.002,0.002
+533,Ibotirama,BA,0.002,0.002,0.002
+476,Colinas do Tocantins,TO,0.002,0.002,0.003
+432,Caetité,BA,0.001,0.002,0.002
+473,Coelho Neto,MA,0.002,0.002,0.002
+179,Jardim,MS,0.002,0.002,0.002
+523,Guaratuba,PR,0.001,0.002,0.002
+521,Guanhães,MG,0.001,0.002,0.002
+83,Caxambu,MG,0.001,0.002,0.002
+116,Goianésia,GO,0.002,0.002,0.002
+129,Indiara,GO,0.001,0.002,0.002
+516,Goiatins,TO,0.001,0.002,0.002
+455,Carinhanha,BA,0.002,0.002,0.002
+456,Carutapera,MA,0.002,0.002,0.002
+458,Cassilândia,MS,0.002,0.002,0.002
+461,Cavalcante,GO,0.002,0.002,0.002
+90,Cidreira,RS,0.001,0.002,0.002
+463,Cerejeiras,RO,0.001,0.002,0.002
+680,Santa Helena de Goiás,GO,0.001,0.002,0.002
+558,João Pinheiro,MG,0.001,0.002,0.002
+152,Sant'Ana do Livramento,RS,0.001,0.002,0.002
+575,Macaúbas,BA,0.001,0.002,0.002
+380,Amambai,MS,0.002,0.002,0.003
+101,Curvelo,MG,0.001,0.002,0.002
+571,Loanda,PR,0.002,0.002,0.002
+667,Rio de Contas,BA,0.001,0.002,0.002
+669,Rio Pardo de Minas,MG,0.002,0.002,0.002
+485,Costa Rica,MS,0.002,0.002,0.002
+564,Juruena,MT,0.001,0.002,0.002
+723,Siqueira Campos,PR,0.001,0.002,0.002
+507,Feijó,AC,0.001,0.002,0.002
+495,Curitibanos,SC,0.002,0.002,0.002
+555,Jataí,GO,0.001,0.002,0.002
+722,Sertanópolis,PR,0.001,0.002,0.002
+408,Bataguassu,MS,0.002,0.002,0.003
+692,Santo Antônio do Içá,AM,0.002,0.002,0.003
+153,Santo Antônio do Sudoeste,PR,0.001,0.002,0.002
+701,São Gabriel do Oeste,MS,0.001,0.001,0.001
+645,Piumhi,MG,0.0,0.001,0.001
+697,São Francisco,MG,0.001,0.001,0.001
+694,São Domingos,GO,0.001,0.001,0.001
+702,São Gotardo,MG,0.0,0.001,0.001
+772,Santa Maria,RN,0.0,0.001,0.001
+698,São Francisco do Sul,SC,0.0,0.001,0.001
+663,Registro,SP,0.001,0.001,0.001
+648,Porangatu,GO,0.001,0.001,0.001
+771,Pompéu,MG,0.001,0.001,0.001
+684,José Raydan,MG,0.001,0.001,0.001
+768,Guararapes,SP,0.001,0.001,0.001
+764,Xique-Xique,BA,0.001,0.001,0.001
+758,Vila Rica,MT,0.001,0.001,0.002
+757,Vila Bela da Santíssima Trindade,MT,0.001,0.001,0.001
+656,Prata,MG,0.001,0.001,0.002
+721,Serro,MG,0.0,0.001,0.001
+658,Presidente Epitácio,SP,0.001,0.001,0.001
+672,Rosário do Sul,RS,0.0,0.001,0.001
+730,Tanque Novo,BA,0.001,0.001,0.001
+732,Tartarugalzinho,AP,0.001,0.001,0.001
+703,São João do Piauí,PI,0.001,0.001,0.001
+389,Araçuaí,MG,0.0,0.001,0.001
+434,Camapuã,MS,0.001,0.001,0.002
+443,Campos Belos,GO,0.001,0.001,0.001
+450,Capelinha,MG,0.001,0.001,0.001
+368,Afrânio,PE,0.001,0.001,0.001
+466,Chapadão do Sul,MS,0.0,0.001,0.001
+471,Cocos,BA,0.0,0.001,0.001
+355,Uruçuí,PI,0.001,0.001,0.001
+482,Correia Pinto,SC,0.001,0.001,0.001
+331,Taquaruçu do Sul,RS,0.001,0.001,0.002
+484,Costa Marques,RO,0.0,0.001,0.001
+493,Cumaru do Norte,PA,0.001,0.001,0.001
+496,Cururupu,MA,0.001,0.001,0.001
+497,Diamantina,MG,0.001,0.001,0.002
+501,Encruzilhada,BA,0.0,0.001,0.001
+509,Fonte Boa,AM,0.001,0.001,0.002
+288,Riolândia,SP,0.001,0.001,0.002
+167,Itapiranga,SC,0.0,0.001,0.001
+448,Canto do Buriti,PI,0.001,0.001,0.001
+436,Campina Verde,MG,0.0,0.001,0.001
+543,Itaporanga,PB,0.001,0.001,0.001
+636,Piatã,BA,0.0,0.001,0.001
+382,Amaturá,AM,0.001,0.001,0.001
+393,Arapoti,PR,0.001,0.001,0.001
+376,Alto Alegre,RR,0.001,0.001,0.001
+373,Almenara,MG,0.001,0.001,0.001
+397,Arroio Grande,RS,0.001,0.001,0.001
+401,Bambuí,MG,0.001,0.001,0.001
+403,Barcelos,AM,0.0,0.001,0.001
+409,Belém do São Francisco,PE,0.001,0.001,0.001
+411,Boca do Acre,AM,0.001,0.001,0.001
+412,Bom Jesus,PI,0.001,0.001,0.001
+413,Bonfinópolis de Minas,MG,0.001,0.001,0.001
+415,Boquira,BA,0.001,0.001,0.001
+417,Brasília de Minas,MG,0.001,0.001,0.001
+372,Alegrete,RS,0.001,0.001,0.001
+424,Buritirama,BA,0.001,0.001,0.001
+530,Ibaiti,PR,0.001,0.001,0.001
+250,Pedro Osório,RS,0.0,0.001,0.001
+390,Araguacema,TO,0.001,0.001,0.001
+556,Jequitinhonha,MG,0.0,0.001,0.001
+590,Mineiros,GO,0.001,0.001,0.001
+589,Minas Novas,MG,0.001,0.001,0.001
+583,Marechal Thaumaturgo,AC,0.001,0.001,0.002
+576,Machadinho D'Oeste,RO,0.001,0.001,0.002
+131,Quaraí,RS,0.001,0.001,0.001
+608,Normandia,RR,0.001,0.001,0.001
+142,Guaíra,PR,0.001,0.001,0.001
+114,Gastão Vidigal,SP,0.001,0.001,0.002
+568,Lagoa da Confusão,TO,0.001,0.001,0.002
+76,Caraí,MG,0.001,0.001,0.001
+566,Jutaí,AM,0.001,0.001,0.002
+623,Palmeiras,BA,0.001,0.001,0.001
+4,Adrianópolis,PR,0.001,0.001,0.001
+632,Pauini,AM,0.001,0.001,0.002
+147,Paranhos,MS,0.001,0.001,0.001
+628,Paranã,TO,0.001,0.001,0.001
+554,Jardim de Angicos,RN,0.001,0.001,0.001
+135,Bonfim,RR,0.001,0.001,0.001
+552,Januária,MG,0.001,0.001,0.001
+144,Itaqui,RS,0.001,0.001,0.001
+736,Terra Santa,PA,0.0,0.0,0.0
+130,Santa Vitória do Palmar,RS,0.0,0.0,0.0
+769,Nanuque,MG,0.0,0.0,0.0
+133,Bela Vista,MS,0.0,0.0,0.0
+104,Duas Estradas,PB,0.0,0.0,0.0
+370,Águas Formosas,MG,0.0,0.0,0.0
+785,Gaúcha do Norte,MT,0.0,0.0,0.0
+134,Barra do Quaraí,RS,0.0,0.0,0.0
+10,Alto Parnaíba,MA,0.0,0.0,0.0
+150,Porto Vera Cruz,RS,0.0,0.0,0.0
+369,Água Boa,MG,0.0,0.0,0.0
+740,Turiaçu,MA,0.0,0.0,0.0
+151,Porto Xavier,RS,0.0,0.0,0.0
+753,Várzea Grande,PI,0.0,0.0,0.0
+229,Otacílio Costa,SC,0.0,0.0,0.0
+383,Anajás,PA,0.0,0.0,0.0
+749,Utinga,BA,0.0,0.0,0.0
+145,Jaguarão,RS,0.0,0.0,0.0
+290,Salvador do Sul,RS,0.0,0.0,0.0
+760,Virgem da Lapa,MG,0.0,0.0,0.0
+319,São Sebastião da Amoreira,PR,0.0,0.0,0.0
+761,Viseu,PA,0.0,0.0,0.0
+341,Baliza,GO,0.0,0.0,0.001
+141,Garruchos,RS,0.0,0.0,0.0
+139,Dionísio Cerqueira,SC,0.0,0.0,0.001
+136,Coronel Sapucaia,MS,0.0,0.0,0.0
+149,Porto Mauá,RS,0.0,0.0,0.0
+741,Turmalina,MG,0.0,0.0,0.0
+639,Pimenteiras do Oeste,RO,0.0,0.0,0.0
+387,Apuí,AM,0.0,0.0,0.0
+593,Monte Alegre de Goiás,GO,0.0,0.0,0.0
+547,Jacareacanga,PA,0.0,0.0,0.0
+553,Japurá,AM,0.0,0.0,0.0
+563,Juruá,AM,0.0,0.0,0.0
+668,Rio Paranaíba,MG,0.0,0.0,0.0
+570,Lizarda,TO,0.0,0.0,0.0
+573,Luciara,MT,0.0,0.0,0.0
+665,Ribeiro Gonçalves,PI,0.0,0.0,0.0
+577,Manicoré,AM,0.0,0.0,0.001
+591,Montalvânia,MG,0.0,0.0,0.0
+598,Morada Nova de Minas,MG,0.0,0.0,0.0
+544,Itarema,CE,0.0,0.0,0.0
+600,Mostardas,RS,0.0,0.0,0.0
+602,Mucugê,BA,0.0,0.0,0.0
+653,Porto Walter,AC,0.0,0.0,0.0
+652,Porto Murtinho,MS,0.0,0.0,0.0
+651,Porto dos Gaúchos,MT,0.0,0.0,0.0
+613,Novo Aripuanã,AM,0.0,0.0,0.0
+614,Novo Horizonte,BA,0.0,0.0,0.0
+620,Ourolândia,BA,0.0,0.0,0.0
+629,Paranaíba,MS,0.0,0.0,0.001
+677,Salinópolis,PA,0.0,0.0,0.0
+679,Santa Cruz do Arari,PA,0.0,0.0,0.0
+391,Araguaçu,TO,0.0,0.0,0.0
+477,Conceição,PB,0.0,0.0,0.0
+727,Taguatinga,TO,0.0,0.0,0.001
+396,Arraias,TO,0.0,0.0,0.001
+724,Sítio Novo,MA,0.0,0.0,0.0
+421,Brotas de Macaúbas,BA,0.0,0.0,0.0
+713,São Miguel do Araguaia,GO,0.0,0.0,0.0
+433,Calçoene,AP,0.0,0.0,0.0
+446,Canarana,BA,0.0,0.0,0.0
+449,Canudos,BA,0.0,0.0,0.0
+465,Chapadão do Céu,GO,0.0,0.0,0.0
+699,São Gabriel,BA,0.0,0.0,0.0
+682,Santa Isabel do Rio Negro,AM,0.0,0.0,0.0
+483,Corrente,PI,0.0,0.0,0.0
+696,São Félix do Xingu,PA,0.0,0.0,0.0
+494,Curaçá,BA,0.0,0.0,0.0
+511,Fortaleza dos Nogueiras,MA,0.0,0.0,0.0
+514,Gentio do Ouro,BA,0.0,0.0,0.0
+515,Gilbués,PI,0.0,0.0,0.0
+519,Guadalupe,PI,0.0,0.0,0.0
+525,Gurupá,PA,0.0,0.0,0.0
+529,Iaciara,GO,0.0,0.0,0.0
+786,Santa Terezinha,MT,0.0,0.0,0.0
